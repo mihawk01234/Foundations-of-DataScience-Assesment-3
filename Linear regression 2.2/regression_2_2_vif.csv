@@ -1,0 +1,9 @@
+Predictor,VIF
+team_fifa_rank,1.5077952394242138
+opponent_elo,3.5084027673787714
+team_avg_age,1.0215630388091326
+opponent_squad_value,3.1074658118340435
+team_prev_avg_goals_scored,2.001594969346855
+team_prev_avg_shots,2.9472644108144483
+team_prev_avg_shots_on_target,4.168273438480492
+opponent_prev_avg_saves,1.2386947849124275
